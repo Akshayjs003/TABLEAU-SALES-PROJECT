@@ -1,0 +1,11 @@
+- The required data is contained in the db_dump.sql file.
+
+- Download it and open in MYSQL (YOU HAVE TO EXPORT IT).
+
+- Then connect your MYSQL with tableau (not tableau public).
+
+- Then introduce the relations between each table.
+
+- Create the required graphs.
+
+- Finally arrange them perfectly
